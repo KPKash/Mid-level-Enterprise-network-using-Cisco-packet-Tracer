@@ -17,11 +17,10 @@ Cisco Packet Tracer offers an effective, interactive environment for learning ne
 
 2)Router 
   Primary function of router is to determine the optimal path for data packets to travel from the 	source to the destination across interconnected networks. Routers use routing tables and algorithms to make decisions     
-  about the best path for data packets to reach their destination. They consider factors such as network topology, traffic load, and cost to determine the most 		efficient route. 
+  about the best path for data packets to reach their destination. They consider factors such as network topology, traffic load, and cost to determine the most efficient route. 
 
 3)Server 
-  A server is a foundational networking device designed to provide services, resources, or data to 	other devices on a network. It plays a central role in network architecture, facilitating communication, storage, and   
-  collaboration. 
+  A server is a foundational networking device designed to provide services, resources, or data to 	other devices on a network. It plays a central role in network architecture, facilitating communication, storage, and collaboration. 
 
 4)End user Devices 
   PC’s and mobile phones serve as the primary devices for end-users to connect, communicate, 	and access resources within a networked environment. 
