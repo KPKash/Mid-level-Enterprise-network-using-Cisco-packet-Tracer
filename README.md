@@ -11,6 +11,7 @@ The main objective of the proposed network is
 Cisco Packet Tracer offers an effective, interactive environment for learning networking concepts and protocols. Most importantly, Packet Tracer helps students and instructors create their own virtual “network worlds” for exploration, experimentation, and explanation of networking concepts and technologies.  
 
 #COMPONENTS USED: 
+
 1)Switch  
   A network switch is a crucial component in computer networking, playing a pivotal role in connecting devices within a local area network (LAN). Switches use packet switching to forward 	data. Each incoming data packet is   
   examined, and the switch determines the optimal path to 	send it to the intended device. This process enhances efficiency by reducing unnecessary data transmission. 
